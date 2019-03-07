@@ -1,0 +1,10 @@
+[
+{"route_id":"CI","agency_id":"SF","route_short_name":"F8","route_long_name":"Cockatoo Island","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"DH","agency_id":"SF","route_short_name":"F4","route_long_name":"Cross Harbour","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"ES","agency_id":"SF","route_short_name":"F7","route_long_name":"Double Bay","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"ML","agency_id":"SF","route_short_name":"F1","route_long_name":"Manly","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"MS","agency_id":"SF","route_short_name":"F6","route_long_name":"Mosman Bay","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"NB","agency_id":"SF","route_short_name":"F5","route_long_name":"Neutral Bay","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"RV","agency_id":"SF","route_short_name":"F3","route_long_name":"Parramatta River","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"},
+{"route_id":"TZ","agency_id":"SF","route_short_name":"F2","route_long_name":"Taronga Zoo","route_desc":"Sydney Ferries Network","route_type":"4","route_url":"","route_color":"00934D","route_text_color":"FFFFFF"}
+]
